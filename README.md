@@ -10,11 +10,13 @@ Welcome to my collection of Capture The Flag (CTF) writeups! This repository con
 
 | **CTF Name**                    | **Event Year(s)** | **Writeups**                             |
 | ------------------------------- | ----------------- | ---------------------------------------- |
-| [AceCTF](ctfs/acectf)           | 2024              | [Writeups Folder](ctfs/acectf/2024)      |
-| [ApoorvCTF](ctfs/apoorvctf)     | 2024              | [Writeups Folder](ctfs/apoorvctf/2024)   |
-| [BYUCTF](ctfs/byuctf)           | 2023, 2024        | [Writeups Folder](ctfs/byuctf)           |
-| [Pentathon25](ctfs/pentathon25) | 2024              | [Writeups Folder](ctfs/pentathon25/2024) |
-| [UTCTF](ctfs/utctf)             | 2023              | [Writeups Folder](ctfs/utctf/2023)       |
+| [AceCTF](ctfs/acectf)           | 2025              | [ACECTF Writeups](ctfs/acectf/2025)      |
+| [ApoorvCTF](ctfs/apoorvctf)     | 2025              | [ApoorvCTF Writeups](ctfs/apoorvctf/2025)|
+| [BYUCTF](ctfs/byuctf)           | 2025              | [byuctf Writeups](ctfs/byuctf/2025)      |
+| [Pentathon25](ctfs/pentathon25) | 2025              | [Pentathon Writeups](ctfs/pentathon25/2025) |
+| [UTCTF](ctfs/utctf)             | 2025              | [UTCTF Writeups](ctfs/utctf/2024)       |
+| [HackOSINT](ctfs/hackosint)     | 2025              | [HackOSINT Writeups](ctfs/hackosint/2025) |
+
 
 ---
 
